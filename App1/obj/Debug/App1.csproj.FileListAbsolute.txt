@@ -1,0 +1,8 @@
+c:\users\daniel\documents\visual studio 2015\Projects\UDPHeartbeatVar1\App1\bin\Debug\App1.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\UDPHeartbeatVar1\App1\bin\Debug\App1.exe
+c:\users\daniel\documents\visual studio 2015\Projects\UDPHeartbeatVar1\App1\bin\Debug\App1.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\UDPHeartbeatVar1\App1\bin\Debug\ClassLibHeartbeat.dll
+c:\users\daniel\documents\visual studio 2015\Projects\UDPHeartbeatVar1\App1\bin\Debug\ClassLibHeartbeat.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\UDPHeartbeatVar1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\UDPHeartbeatVar1\App1\obj\Debug\App1.exe
+c:\users\daniel\documents\visual studio 2015\Projects\UDPHeartbeatVar1\App1\obj\Debug\App1.pdb

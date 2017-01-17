@@ -1,0 +1,5 @@
+c:\users\daniel\documents\visual studio 2015\Projects\UDPHeartbeatVar1\ClassLibHeartbeat\bin\Debug\ClassLibHeartbeat.dll
+c:\users\daniel\documents\visual studio 2015\Projects\UDPHeartbeatVar1\ClassLibHeartbeat\bin\Debug\ClassLibHeartbeat.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\UDPHeartbeatVar1\ClassLibHeartbeat\obj\Debug\ClassLibHeartbeat.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\UDPHeartbeatVar1\ClassLibHeartbeat\obj\Debug\ClassLibHeartbeat.dll
+c:\users\daniel\documents\visual studio 2015\Projects\UDPHeartbeatVar1\ClassLibHeartbeat\obj\Debug\ClassLibHeartbeat.pdb
